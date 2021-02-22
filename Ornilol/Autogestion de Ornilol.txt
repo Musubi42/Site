@@ -1,0 +1,20 @@
+Permettre aux utilisateurs de créer leur propre topic,
+Ils pourraient créer du contenu communautaire, ou payant pour eux ou encore des privés, ou à partager avec des amis, une sorte de réseaux sociaux, 
+voir à faire un pont avec le forum
+
+Structurer leur organisation de topic,
+Choix d'une catégorie, ce qui découlle en sous-catégorie, so forth and so on
+A la création de son contenu mettre plein de contrôle client side, pour donner des infos sur le contenu qu'il doit ajouter,
+Et faire des contrôles server-side pour ne pas se faire attaquer par un petit malin.
+A la création de son contenu, il faudra subtilement le guider, pour qu'il crée un contenu qui respecte nos règles,
+sans qu'il est l'impression d'être contrôlé,
+En premier proto de ce système, le mettre à disposition pour des beta testeur, ça devrait suciter l'envie, 
+faire tout un marketing sur les possibilités de reconnaissances et de rémunération futurs
+Donc pour le proto, mettre des contrôles client-side, mais rien de trop pousser, par contre server-side tout à fond, 
+pour tester la sécu voir à utiliser le soft vu avec Renaut
+
+Son contenu une fois crée, devra passer en modération au début une modération humaine, 
+et dans un futur lointain voir à créer une IA pour traiter le gros, mais en fin de chaine quand même mettre un humain, 
+car encore une fois un petit malin pourrait s'amuser à passer de la merde dans les images ou autres...
+
+Une fois le contenu validé, il sera placé dans la catégorie associé et épinglé le statut de son topic (communautaire, payant, ...)
